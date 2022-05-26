@@ -5,6 +5,7 @@ import java.util.stream.Collectors;
 
 public class AddressBookMain
 {
+
     public static List<Contact> contactList = new ArrayList<>();
 
     public static Scanner scan = new Scanner(System.in);
